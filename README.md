@@ -18,5 +18,13 @@
  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+ <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+ 
+ 
  
  </span>
+ 
+ ## 💼 Projects
+ - [Admin Panel](https://main.d3sypojophu5ih.amplifyapp.com/dashboard)
+ - [Zinc Email](https://github.com/lanorrron/zinc-email)
