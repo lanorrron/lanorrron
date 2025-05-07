@@ -26,5 +26,5 @@
  </span>
  
  ## 💼 Projects
- - [Admin Panel](https://main.d3sypojophu5ih.amplifyapp.com/dashboard)
+ - [Admin Panel](https://main.d1oooohkdkk11k.amplifyapp.com/)
  - [Zinc Email](https://github.com/lanorrron/zinc-email)
